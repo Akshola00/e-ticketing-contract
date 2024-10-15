@@ -1,0 +1,57 @@
+{
+	"compiler": {
+		"version": "0.8.26+commit.8a97fa7a"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"John.sol": "JOhn"
+		},
+		"evmVersion": "cancun",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"John.sol": {
+			"keccak256": "0x64e01efe703bb8a1f8bfe043c8132c30f5c1d6cba18db55742cfdb55939a191c",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://941c5831939ddd93361b8720de07435cddbee6f1a7172a39fdd5446a632ac273",
+				"dweb:/ipfs/QmZpYasRrnKSjGFw9xLsZhZffRyMNTnN9HnEdMrFw9YDmw"
+			]
+		}
+	},
+	"version": 1
+}
